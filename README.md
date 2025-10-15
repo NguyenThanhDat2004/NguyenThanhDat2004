@@ -84,5 +84,5 @@ Clean Architecture: Domain-driven design principles
 <p align="center">
   <b>✨ Nguyen Thanh Dat ✨</b><br/>
   iOS Dev | Flutter Dev | Frontend Dev<br/>
-  📬 Catluong801@gmail.com  ·  🌐 [LinkedIn](https://www.linkedin.com/in/nguyen-thanh-dat-709811284/)
+  📬 Catluong801@gmail.com  ·  🌐 Linkedin
 </p>

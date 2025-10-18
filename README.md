@@ -13,16 +13,16 @@
 
 ---
 
-Mobile Development
-<p> <img src="https://skillicons.dev/icons?i=swift,dart,kotlin" alt="Mobile Languages" /> </p>
-Frameworks & Tools
-<p> <img src="https://skillicons.dev/icons?i=flutter,react,dotnet" alt="Frameworks" /> </p>
-Frontend Technologies
-<p> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
-Development Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,xcode,postman,docker,azure" alt="Tools" /> </p>
-Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,sql" alt="Languages" /> </p>
+📱 Mobile Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=swift,dart,kotlin" alt="Mobile Languages" /> </p>
+🧩 Frameworks & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,react,dotnet" alt="Frameworks" /> </p>
+🎨 Frontend Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
+🧰 Development Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,xcode,androidstudio,postman,docker,azure" alt="Tools" /> </p>
+💡 Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,sql" alt="Languages" /> </p>
 
 ---
 

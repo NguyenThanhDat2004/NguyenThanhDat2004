@@ -13,20 +13,47 @@
 
 ---
 
-📱 Mobile Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=swift,dart,kotlin" alt="Mobile Languages" /> </p>
-🧩 Frameworks & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,react,dotnet" alt="Frameworks" /> </p>
-🎨 Frontend Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
-🧰 Development Tools
+### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,azure" alt="Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
+  <img src="https://skillicons.dev/icons?i=swift,dart,kotlin,flutter" alt="Mobile" />
 </p>
-💡 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,sql" alt="Languages" /> </p>
 
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,dotnet" alt="Frameworks" />
+</p>
+
+### 🎨 Frontend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+</p>
+
+### 🧰 Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,powershell" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="48" height="48" alt="CMake" />
+</p>
+
+### 💡 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,cs" alt="Languages" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" alt="Databases" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,cloudflare,vercel,netlify,gcp" alt="Cloud Platforms" />
+</p>
+
+### 💻 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux" alt="OS" />
+</p>
 ---
 
 ## 🚀 Featured Projects

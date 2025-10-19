@@ -20,7 +20,10 @@
 🎨 Frontend Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
 🧰 Development Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,xcode,androidstudio,postman,docker,azure" alt="Tools" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,docker,azure" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
+</p>
 💡 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,java,python,cs,sql" alt="Languages" /> </p>
 

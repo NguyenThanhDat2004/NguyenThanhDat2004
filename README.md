@@ -1,25 +1,5 @@
-# Hi there! 👋
-## Nguyen Thanh Dat | Mobile & Frontend Developer
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C0FF,00ff88,7F52FF&height=250&section=header&text=Nguyen%20Thanh%20Dat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50" alt="Header" />
-
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=iOS+%26+Flutter+Developer;Frontend+Engineer+💻;Clean+Architecture+Enthusiast;Building+Scalable+Apps+🚀" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-<a href="mailto:Catluong801@gmail.com">
-<img src="https://img.shields.io/badge/Email-Catluong801%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/nguyen-thanh-dat-709811284/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/NguyenThanhDat2004">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
-</div>
+<div align="center"><!-- Dynamic waving header with gradient animation --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C0FF,00ff88,7F52FF&height=250&section=header&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlign=50&text=Nguyen%20Thanh%20Dat" alt="Animated Header" /><!-- Main title typing animation --><h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=00C0FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Nguyen+Thanh+Dat;iOS+%26+Flutter+Developer;Full-Stack+Developer+🚀;Mobile+%26+Web+Expert" alt="Typing Animation" /> </h1><!-- Full-Stack specific animated messages --><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=00ff88&center=true&repeat=true&width=600&lines=Building+End-to-End+Digital+Solutions;Crafting+Full-Stack+Experiences;Frontend+%7C+Backend+%7C+Mobile+%7C+DevOps;Code+%7C+Design+%7C+Deploy+%7C+Scale" alt="Full-Stack Messages" /> </p><!-- Animated contact badges --><p align="center"> <a href="mailto:Catluong801@gmail.com" style="display: inline-block; margin: 0 5px; animation: float 3s ease-in-out infinite;"> <img src="https://img.shields.io/badge/📧_Email-Catluong801@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/nguyen-thanh-dat-709811284/" style="display: inline-block; margin: 0 5px; animation: float 3s ease-in-out infinite 0.5s;"> <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/NguyenThanhDat2004" style="display: inline-block; margin: 0 5px; animation: float 3s ease-in-out infinite 1s;"> <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p></div>
 
 ## ⚡ About Me
 👋 Hi, I'm **Dat**. I craft beautiful, performant mobile applications with passion and precision.
@@ -57,10 +37,6 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDat2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C0FF&ring=00ff88&fire=00ff88&currStreakNum=ffffff&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NguyenThanhDat2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ---

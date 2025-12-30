@@ -30,12 +30,16 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDat2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&icon_color=00ff88&text_color=ffffff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhDat2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C0FF&text_color=ffffff" height="180" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDat2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C0FF&ring=00ff88&fire=00ff88&currStreakNum=ffffff&currStreakLabel=00ff88&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzJ2N253M20xN2ExdTZ0czJxazY1NnV2M25teW4zZzZrcHI2MzBlbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1rL3hRI9WdY1vDxtW5/giphy.gif"
+  width="420"
+  alt="Tom and Jerry chasing"
+  style="background: transparent;"
+/>
+
+<p><i>Always chasing better code and cleaner architecture.</i></p>
+
 </div>
 
 ---
@@ -54,3 +58,4 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F52FF,00C0FF&height=100&section=footer" />
 </div>
+Design cho đẹp trong suốt có thể run được trên README mà không code IDE ngoài

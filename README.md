@@ -58,4 +58,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F52FF,00C0FF&height=100&section=footer" />
 </div>
-Design cho đẹp trong suốt có thể run được trên README mà không code IDE ngoài

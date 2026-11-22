@@ -85,7 +85,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://tenor.com/view/apple-apple-mac-apple-macbook-pro-apple-macbook-pro-14-apple-macbook-pro-16-gif-4617504826741284074" alt="Coding gif" />
+<img src="https://media1.tenor.com/m/QBSsLOKQ3OoAAAAC/apple-apple-mac.gif" alt="Coding gif" />
 <br/>
 <sub><i>macOS Internals · Системный код · Lập trình cấp thấp</i></sub>
 

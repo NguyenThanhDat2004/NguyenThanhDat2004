@@ -59,12 +59,12 @@
 <summary><b>🇬🇧 English</b></summary>
 <br/>
 
-👋 Hi, I'm **Dat** — a passionate developer crafting smooth, user-centric mobile and web applications.
+👋 Hi, I'm **Dat** — a software engineer who shifted from high-level app development to **low-level macOS & systems programming**.
 
-- 📱 **Mobile Focus:** Building native & cross-platform apps with **SwiftUI**, **Kotlin**, and **Flutter**.
-- 🌐 **Full-Stack Mindset:** Developing responsive interfaces and connecting scalable backend services.
-- 🏗️ **Architecture:** Strong advocate for **Clean Architecture**, **MVVM**, and maintainable, testable code.
-- 💡 **Philosophy:** *"Code with purpose, design with passion."*
+-  **macOS Internals:** Exploring system-level architecture, Darwin/POSIX APIs, background daemons, and native utilities using **C/C++**, **Objective-C**, and **Swift**.
+- ⚙️ **Close to the Metal:** Focusing on memory management, concurrency, IPC, and low-level optimization rather than UI-heavy applications.
+- 🔍 **Systems Engineering:** Deep-diving into debugging, profiling (**LLDB**, **Instruments**), and building reliable, high-performance native tools.
+- 💡 **Philosophy:** *"Understand the system beneath the abstraction."*
 
 </details>
 
@@ -73,12 +73,12 @@
 <summary><b>🇷🇺 Русский</b></summary>
 <br/>
 
-👋 Привет! Я **Дат** — увлечённый разработчик, создающий плавные и удобные мобильные и веб-приложения.
+👋 Привет! Я **Дат** — инженер-разработчик, перешедший от прикладных приложений к **низкоуровневому и системному программированию под macOS**.
 
-- 📱 **Мобильная разработка:** Создание нативных и кроссплатформенных приложений на **SwiftUI**, **Kotlin** и **Flutter**.
-- 🌐 **Full-Stack подход:** Разработка отзывчивых интерфейсов и масштабируемых серверных решений.
-- 🏗️ **Архитектура:** Приверженец **Clean Architecture**, **MVVM** и чистого, тестируемого кода.
-- 💡 **Философия:** *«Пиши код со смыслом, проектируй со страстью.»*
+-  **Внутреннее устройство macOS:** Изучение системной архитектуры, Darwin/POSIX API, фоновых демонов и нативных утилит на **C/C++**, **Objective-C** и **Swift**.
+- ⚙️ **Ближе к железу:** Фокус на управлении памятью, многопоточности, IPC и оптимизации производительности вместо классических UI-приложений.
+- 🔍 **Системная инженерия:** Глубокая отладка, профилирование (**LLDB**, **Instruments**) и создание надёжного нативного ПО.
+- 💡 **Философия:** *«Понимай систему, скрытую за абстракциями.»*
 
 </details>
 
@@ -87,12 +87,12 @@
 <summary><b>🇻🇳 Tiếng Việt</b></summary>
 <br/>
 
-👋 Xin chào, mình là **Đạt** — lập trình viên đam mê xây dựng các ứng dụng di động và web mượt mà, lấy người dùng làm trung tâm.
+👋 Xin chào, mình là **Đạt** — kỹ sư phần mềm đã chuyển hướng từ phát triển ứng dụng thông thường sang **lập trình hệ thống và cấp thấp trên macOS**.
 
-- 📱 **Phát triển Mobile:** Xây dựng ứng dụng native và đa nền tảng với **SwiftUI**, **Kotlin** và **Flutter**.
-- 🌐 **Tư duy Full-Stack:** Thiết kế giao diện trực quan và kết nối các dịch vụ backend linh hoạt.
-- 🏗️ **Kiến trúc phần mềm:** Ưu tiên **Clean Architecture**, **MVVM** và mã nguồn dễ bảo trì, kiểm thử.
-- 💡 **Triết lý:** *«Viết code có mục đích, thiết kế bằng đam mê.»*
+-  **Hệ thống macOS:** Tập trung vào kiến trúc lõi, Darwin/POSIX API, tiến trình nền (daemons) và công cụ native bằng **C/C++**, **Objective-C** và **Swift**.
+- ⚙️ **Sát phần cứng:** Ưu tiên quản lý bộ nhớ, xử lý đa luồng, giao tiếp liên tiến trình (IPC) và tối ưu hiệu năng thay vì các app thiên về giao diện.
+- 🔍 **Kỹ thuật chuyên sâu:** Phân tích, gỡ lỗi và đo hiệu năng tầng sâu (**LLDB**, **Instruments**) để xây dựng các công cụ native ổn định, tốc độ cao.
+- 💡 **Triết lý:** *«Hiểu rõ bản chất hệ thống bên dưới mọi lớp trừu tượng.»*
 
 </details>
 
@@ -101,12 +101,11 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzJ2N253M20xN2ExdTZ0czJxazY1NnV2M25teW4zZzZrcHI2MzBlbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1rL3hRI9WdY1vDxtW5/giphy.gif" width="230" alt="Coding gif" />
 <br/>
-<sub><i>Code · Архитектура · Sáng tạo</i></sub>
+<sub><i>macOS Internals · Системный код · Lập trình cấp thấp</i></sub>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠 Tech Stack · Стек технологий · Công nghệ

@@ -4,36 +4,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C0FF,00ff88,7F52FF&height=240&section=header&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&text=Nguyen%20Thanh%20Dat&desc=iOS%20%7C%20Android%20%7C%20Flutter%20%7C%20Full-Stack&descAlign=50&descAlignY=60&descSize=20" alt="Header" width="100%" />
 
 <!-- Tri-lingual Typing Animation -->
-<a href="https://github.com/NguyenThanhDat2004">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00C0FF&center=true&vCenter=true&width=760&height=45&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Thanh+Dat;Привет!+%F0%9F%91%8B+Я+Нгуен+Тхань+Дат;Xin+chào!+%F0%9F%91%8B+Mình+là+Nguyễn+Thành+Đạt;iOS+%C2%B7+Android+%C2%B7+Flutter+%C2%B7+Full-Stack+%F0%9F%9A%80" alt="Typing" />
-</a>
+<a href="https://github.com/NguyenThanhDat2004"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00C0FF&center=true&vCenter=true&width=760&height=45&lines=Hi+there!+%F0%9F%91%8B+I'm+Nguyen+Thanh+Dat;Привет!+%F0%9F%91%8B+Я+Нгуен+Тхань+Дат;Xin+chào!+%F0%9F%91%8B+Mình+là+Nguyễn+Thành+Đạt;iOS+%C2%B7+Android+%C2%B7+Flutter+%C2%B7+Full-Stack+%F0%9F%9A%80" alt="Typing" /></a>
 
 <br/>
 
 <!-- Language Switcher Badges -->
-<a href="#-about-me">
-  <img src="https://img.shields.io/badge/🇬🇧_English-00C0FF?style=flat-square" alt="English" />
-</a>
-<a href="#-обо-мне">
-  <img src="https://img.shields.io/badge/🇷🇺_Русский-00FF88?style=flat-square" alt="Русский" />
-</a>
-<a href="#-giới-thiệu">
-  <img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-7F52FF?style=flat-square" alt="Tiếng Việt" />
-</a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/🇬🇧_English-00C0FF?style=flat-square" alt="English" /></a>
+<a href="#-обо-мне"><img src="https://img.shields.io/badge/🇷🇺_Русский-00FF88?style=flat-square" alt="Русский" /></a>
+<a href="#-giới-thiệu"><img src="https://img.shields.io/badge/🇻🇳_Tiếng_Việt-7F52FF?style=flat-square" alt="Tiếng Việt" /></a>
 
 <br/><br/>
 
 <!-- Social & Stats Badges -->
-<a href="mailto:Catluong801@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/nguyen-thanh-dat-709811284/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/NguyenThanhDat2004">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=NguyenThanhDat2004&style=for-the-badge&color=00C0FF&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="mailto:Catluong801@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nguyen-thanh-dat-709811284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/NguyenThanhDat2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenThanhDat2004&label=PROFILE%20VIEWS&labelColor=%23181717&countColor=%2300C0FF&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 

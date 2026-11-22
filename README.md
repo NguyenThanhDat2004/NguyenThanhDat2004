@@ -120,14 +120,12 @@
 |:---|:---|:---|:---:|
 | 🗒️ **Note Taking App** | Minimalist notes with local storage · Заметки с локальным хранением · Ghi chú tối giản | `SwiftUI` · `CoreData` · `Clean Architecture` | ✅ Live |
 | 🌤️ **Weather App Mini** | Real-time weather forecast · Прогноз погоды в реальном времени · Dự báo thời tiết | `SwiftUI` · `REST API` · `Async/Await` | ✅ Live |
-| 🧾 **Expense Manager** | Visual personal finance tracker · Учёт личных финансов · Quản lý chi tiêu | `SwiftUI` · `UserDefaults` · `Charts` | ✅ Live |
-| ✅ **Todo List** | Cross-platform task manager · Кроссплатформенный трекер задач · Quản lý công việc | `Flutter` · `MVVM` · `Provider` | ✅ Live |
+| 🖥️ **OneDash** | Native macOS menu bar system utility & hardware control · Системная утилита для macOS · Tiện ích hệ thống & điều khiển phần cứng macOS | `SwiftUI` · `Objective-C` · `AppKit` · `IOKit` | ✅ Live |
+| 🧠 **MentalHealth App** | AI-powered mental wellness & mood tracker · ИИ-помощник для ментального здоровья · Ứng dụng chăm sóc sức khỏe tinh thần tích hợp AI | `SwiftUI` · `AI API` · `MVVM` | ✅ Live |
 
 <br/>
 
-<a href="https://github.com/NguyenThanhDat2004?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories_·_Все_репозитории-00C0FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="All repositories" />
-</a>
+<a href="https://github.com/NguyenThanhDat2004?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories_·_Все_репозитории-00C0FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="All repositories" /></a>
 
 </div>
 

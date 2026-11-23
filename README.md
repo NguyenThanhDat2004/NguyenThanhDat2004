@@ -100,13 +100,16 @@
 
 **📱 Mobile Development · Мобильная разработка**
 
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,android,apple&theme=dark&perline=6" alt="Mobile stack" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin&theme=dark&perline=4" height="48" alt="Mobile stack left" />
+<img src="https://github.com/user-attachments/assets/59312cec-e61b-40c6-a53b-95bcb0656e98" height="48" alt="Android" />
+<img src="https://skillicons.dev/icons?i=apple&theme=dark&perline=1" height="48" alt="Mobile stack right" />
 
 <br/><br/>
 
 **🌐 Web, Backend & Tools · Веб и инструменты**
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,firebase,git,vscode&theme=dark&perline=7" alt="Frontend & Tools stack" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,firebase,git,vscode&theme=dark&perline=7" height="48" alt="Frontend & Tools stack" />
+<img src="https://icon.icepanel.io/Technology/svg/Xcode.svg" height="48" alt="Xcode" />
 
 </div>
 
